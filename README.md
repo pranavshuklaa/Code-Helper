@@ -4,7 +4,13 @@ This is a fun little Chrome extension that reminds you to study every time you o
 ## 📝How it works
 
 The extension works by injecting a content script into every page you visit. The content script sends a message to the background script, which then fetches the current URL and sends it back to the content script. The content script then sends a message to the popup script, which displays a reminder to study.
+
+
+
 ![alt text](https://github.com/pranavshuklaa/Code-Helper/blob/main/scripts/others/ss1.png)
+
+
+
 
 ![alt text](https://github.com/pranavshuklaa/Code-Helper/blob/main/scripts/others/ss2.png)
 ## 👨‍How to set it up
